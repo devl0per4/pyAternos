@@ -5,6 +5,6 @@ If programm doesnt work:
 >pip install python-aternos
 
 
->>For start server: type "server.Start"
->>For stop server: type "server.Stop"
->>For change server: type "change.Server"
+>>For start server: type "server.Start".
+>>For stop server: type "server.Stop".
+>>For change server: type "change.Server".
